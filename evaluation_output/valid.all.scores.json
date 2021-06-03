@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.3687680568931032,
+  "ave_num_turns_before_first_error": 0.6028694404591105,
+  "num_correct_dialogues": 389,
+  "num_correct_turns": 4978,
+  "num_total_dialogues": 3485,
+  "num_total_turns": 13499,
+  "num_turns_before_first_error": 2101,
+  "pct_correct_dialogues": 0.11162123385939741
+}
